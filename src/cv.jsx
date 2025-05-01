@@ -34,20 +34,12 @@ const Cv = () => {
       <section className="cv-section">
         <h2>Experience</h2>
         <div className="cv-experience">
-          <h3>Senior Frontend Developer</h3>
-          <p>XYZ Company (2018 - Present)</p>
+          <h3>Informatic Engineering Student</h3>
+          <p>6th Semester</p>
           <p>
-            Led the development of scalable web and mobile applications using
-            React, Next.js, and Expo. Collaborated with cross-functional teams
-            to deliver high-quality products.
-          </p>
-        </div>
-        <div className="cv-experience">
-          <h3>Frontend Developer Intern</h3>
-          <p>ABC Inc. (2017 - 2018)</p>
-          <p>
-            Assisted in building responsive web applications and debugging
-            frontend issues. Gained hands-on experience with modern frameworks.
+            Currently pursuing a degree in informatic engineering. I have
+            certifications in React, Next.js, and Expo, which demonstrate my
+            expertise in modern web and mobile development frameworks.
           </p>
         </div>
       </section>
