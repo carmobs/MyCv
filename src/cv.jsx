@@ -23,6 +23,12 @@ const Cv = () => {
         </p>
       </section>
       <section className="cv-section">
+        <h2>Contact Information</h2>
+        <p>Location: Colima, Mexico</p>
+        <p>Phone: +52 3121900736</p>
+        <p>Email: carlos.t.10@hotmail.com</p>
+      </section>
+      <section className="cv-section">
         <h2>Skills</h2>
         <ul>
           <li>React, Next.js, Expo</li>
